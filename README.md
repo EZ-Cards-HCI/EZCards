@@ -1,4 +1,4 @@
-EZCards Tess-Two App
+EZCards with Tesseract Library
 ==========
 
 Gradle v1.10
