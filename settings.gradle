@@ -1,2 +1,1 @@
-include ':EZCardsApp'
-include ':libraries:tess-two'
+include ':EZCardsApp', 'libraries:tesseract'

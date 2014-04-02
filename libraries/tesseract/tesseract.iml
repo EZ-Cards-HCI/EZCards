@@ -3,7 +3,7 @@
   <component name="FacetManager">
     <facet type="android-gradle" name="Android-Gradle">
       <configuration>
-        <option name="GRADLE_PROJECT_PATH" value=":libraries:tess-two" />
+        <option name="GRADLE_PROJECT_PATH" value=":libraries:tesseract" />
       </configuration>
     </facet>
     <facet type="android" name="Android">
@@ -14,7 +14,7 @@
         <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDebugTest" />
         <option name="SOURCE_GEN_TASK_NAME" value="generateDebugSources" />
         <option name="ALLOW_USER_CONFIGURATION" value="false" />
-        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../tess-two/res" />
         <option name="LIBRARY_PROJECT" value="true" />
       </configuration>
     </facet>
@@ -66,7 +66,10 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" exported="" name="armeabi-v7a" level="project" />
+    <orderEntry type="library" exported="" name="armeabi" level="project" />
+    <orderEntry type="library" exported="" name="mips" level="project" />
+    <orderEntry type="library" exported="" name="x86" level="project" />
   </component>
 </module>
 
